@@ -32,8 +32,8 @@ public class HomeTab extends Base {
 
     public String productImage = "com.pozitron.hepsiburada:id/productImage";
     public String favBtn = "com.pozitron.hepsiburada:id/product_detail_favourites";
-    public String email = "hw.germany.aky@gmail.com";
-    public String password = "Test2022";
+    public String email = "[sample]@[mail].com";
+    public String password = "[sample-password]";
     public String usernameSection = "//android.widget.EditText[@resource-id='txtUserName']";
     public String loginBtn = "//android.widget.Button[@text='Giriş yap']";
     public String passwordSection = "//android.widget.EditText[@resource-id='txtPassword']";
