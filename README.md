@@ -57,8 +57,8 @@ APPIUM_PLATFORM_VER=10
 
 DEVICE_NAME= 
 DEVICE_UDID= 
-APP_PACKAGE=com.amazon.mShop.android.shopping
-APP_ACTIVITY=com.amazon.mShop.splashscreen.StartupActivity
+APP_PACKAGE=com.pozitron.hepsiburada
+APP_ACTIVITY=com.hepsiburada.ui.startup.SplashActivity
 PLATFORM_NAME=android
 
 ```
