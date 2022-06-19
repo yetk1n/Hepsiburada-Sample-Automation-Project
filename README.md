@@ -45,7 +45,7 @@ appium
 
 If you already have [Maven](http://maven.apache.org/index.html) installed, you can execute specs as:
 ```
-mvn gauge:execute -DspecsDir=specs -Denv=AmazonShopping
+mvn gauge:execute -DspecsDir=specs -Denv=default
 ```
 
 You can find these environment variables in the ```env/``` folder.
