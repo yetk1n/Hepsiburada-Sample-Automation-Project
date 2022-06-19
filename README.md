@@ -8,7 +8,7 @@ Developed using [Appium](https://appium.io/) and [Gauge](https://gauge.org) fram
 
 [![Gauge Badge](https://gauge.org/Gauge_Badge.svg)](https://gauge.org)
 
-This project is based on Page Object Model (POM).
+This project is based on Page Object Model (POM) architecture.
 
 ## Setting up this project
 * Real [Android](https://www.android.com/) devices are used when running the tests.
